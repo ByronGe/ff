@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-07T11:11:41.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="rysj0b_tNYX5gxAS8ERh" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-07T11:13:07.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="cc41kaGhPxv1BnIIedUi" version="12.2.2" type="github" pages="1">
   <diagram id="4a39q2auaV-xZN6c6QUD" name="Page-1">
     <mxGraphModel dx="1019" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="L1K248meVKGxkzELrdeW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o6BnJkaYNzVzD3ShalXg-17" target="L1K248meVKGxkzELrdeW-5">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="o6BnJkaYNzVzD3ShalXg-17" value="CNN-BLSTM" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="o6BnJkaYNzVzD3ShalXg-17" value="神经网络" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="520" y="190" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="L1K248meVKGxkzELrdeW-1" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
@@ -55,8 +55,11 @@
         <mxCell id="L1K248meVKGxkzELrdeW-3" value="&lt;span style=&quot;font-size: 12pt ; line-height: 150%&quot;&gt;序列前向选择&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="460" y="305" width="80" height="45" as="geometry"/>
         </mxCell>
-        <mxCell id="L1K248meVKGxkzELrdeW-4" value="CNN-BLSTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="100" width="120" height="60" as="geometry"/>
+        <mxCell id="L1K248meVKGxkzELrdeW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1K248meVKGxkzELrdeW-4" target="o6BnJkaYNzVzD3ShalXg-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="L1K248meVKGxkzELrdeW-4" value="行为数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="70" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="L1K248meVKGxkzELrdeW-5" value="特征向量" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="540" y="305" width="80" height="45" as="geometry"/>
