@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-08T05:49:37.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="PBjxF0bW7alWSAcwE7t-" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T05:53:57.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="V4xuNvJpBq0kb-uB0P_U" version="12.2.2" type="github" pages="1">
   <diagram id="lJSEZnFhlExgmXPmysFB" name="Page-1">
-    <mxGraphModel dx="2751" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1924" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -27,12 +27,6 @@
         </mxCell>
         <mxCell id="eGzz-Rn0fV7NUqwpoASo-92" value="BLSTM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Times New Roman;fontSize=13;strokeColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="775" y="767" width="45" height="22" as="geometry"/>
-        </mxCell>
-        <mxCell id="eGzz-Rn0fV7NUqwpoASo-15" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=none;direction=south;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="410" width="80" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="eGzz-Rn0fV7NUqwpoASo-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="142.5" y="410" width="130" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="eGzz-Rn0fV7NUqwpoASo-36" value="&lt;font style=&quot;font-size: 15px&quot;&gt;特征图&lt;br&gt;1&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=none;direction=south;size=11;fontFamily=Times New Roman;strokeColor=#0000FF;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="557" y="734.5" width="35" height="190" as="geometry"/>
