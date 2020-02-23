@@ -1,1 +1,152 @@
-<mxfile host="www.draw.io" modified="2020-02-23T12:08:13.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" version="12.7.4" etag="WIzu-jG0mr6Hu_IcpdRT" type="github"><diagram id="5K-epfPXK-ZtKyxg3BmA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-23T12:56:14.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="MeT5qWsJnIibybKJ1cMA" version="12.7.4" type="github">
+  <diagram id="5K-epfPXK-ZtKyxg3BmA" name="Page-1">
+    <mxGraphModel dx="1019" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Times New Roman;strokeColor=#000000;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="47" y="750" width="137" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" source="Sw5dev0Mnj_cI2s5RTNf-2" target="Sw5dev0Mnj_cI2s5RTNf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-2" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;CNN&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="810" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-3" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;加速度&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="51" y="790.5" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-4" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;陀螺仪&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="51" y="850" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-7" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;手腕传感器&lt;br style=&quot;font-size: 17px;&quot;&gt;256*6*200&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="60" y="760" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-11" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="176.99999999999955" y="835" as="sourcePoint" />
+            <mxPoint x="206" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Times New Roman;strokeColor=#000000;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="47" y="920" width="137" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-13" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;加速度&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="51" y="960.5" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-14" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;陀螺仪&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="51" y="1020" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-15" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;下肢传感器&lt;br style=&quot;font-size: 17px;&quot;&gt;256*6*200&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="60" y="930" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-16" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="176.99999999999955" y="1005" as="sourcePoint" />
+            <mxPoint x="206" y="1005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" source="Sw5dev0Mnj_cI2s5RTNf-17" target="Sw5dev0Mnj_cI2s5RTNf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-17" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;CNN&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" source="Sw5dev0Mnj_cI2s5RTNf-18" target="Sw5dev0Mnj_cI2s5RTNf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-18" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;LSTM&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="810" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#000000;endArrow=none;endFill=0;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" source="Sw5dev0Mnj_cI2s5RTNf-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-22" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;注意力机制网络&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="810" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-43" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;特征&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="790" y="870" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" source="Sw5dev0Mnj_cI2s5RTNf-19" target="Sw5dev0Mnj_cI2s5RTNf-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-19" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;LSTM&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" source="Sw5dev0Mnj_cI2s5RTNf-24" target="Sw5dev0Mnj_cI2s5RTNf-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1000" />
+              <mxPoint x="730" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-24" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;注意力机制网络&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-33" value="向量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;fontFamily=Times New Roman;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="790" y="910" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-26" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;256*32*50&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="270" y="860" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-27" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;256*32*50&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1040" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-28" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;256 * 100 * 32&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="395" y="860" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-29" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;256 * 100 * 32&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1040" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-30" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;256&amp;nbsp; * 32&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="570" y="860" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-31" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;256&amp;nbsp; * 32&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1040" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-45" value="向量拼接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="680" y="900" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-46" value="&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;256&amp;nbsp; * 64&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="795" y="970.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-47" value="256*12" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="950" y="890" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-48" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#000000;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="910" as="sourcePoint" />
+            <mxPoint x="940" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-49" value="全连接网络" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1000.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-50" value="&lt;font color=&quot;#ff0000&quot;&gt;结果输出&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="975" y="850" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-51" value="256为进入网络的每个批次大小，下面的意思都一样" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="33" y="1100" width="217" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-54" value="6表示传感器通道数，每个传感器3个通道，一共两个" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="33" y="1169" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-55" value="200表示输入频率大小" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="46" y="1230" width="171" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-56" value="最后输出32为经过卷积之后的特征数，可理解为通道数；50为每个特征的大小，&lt;br&gt;对于于频率大小" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="194" y="740" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-57" value="最后输出32表示&lt;br&gt;特征的数量，100表示&lt;br&gt;特征的大小" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1080" width="226" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw5dev0Mnj_cI2s5RTNf-58" value="对每个特征进行计算，得到最后的特征向量。一般的有最大池化（其作用就是提取每个特征的最大值）平均池化，这里采用注意力机制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="540" y="680" width="190" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
