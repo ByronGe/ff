@@ -1,1 +1,83 @@
-<mxfile host="www.draw.io" modified="2020-03-10T15:48:03.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Cx0lWu_K6ASKKSeGjHz4" version="12.8.2" type="github"><diagram id="ETSGENbbgeC9yL6T0qCD" name="Page-1">7VpLc+I4EP41OoayLL90tHnMHHa3pjZTNTtHByvYG2GxRgywv35btoyfIQRIgC1yINInqS334+uWAJHhfPMlCxfx7yJiHJlGtEFkhEzT81z4VMC2AAi1CmCWJVEB4Qp4TP5lGjQ0ukoitmxMlEJwmSya4FSkKZvKBhZmmVg3pz0L3nzqIpyxDvA4DXkX/ZFEMtavZboV/pUls7h8MnZoMTIPy8n6TZZxGIl1DSJjRIaZELJozTdDxpXuSr0U6yavjO42lrFUHrJAfuEBn/AkdsjIfXh8GT89/HjAWsyvkK/0G+vdym2pAhaBRnRXZDIWM5GGfFyhQSZWacTUcwzoVXN+E2IBIAbwbyblVps3XEkBUCznXI/CK2Tbv9T6AXZpCfxUowMDWyUw2uhHFL1tvfeNZcmcSZaV4CaRhURb937WRipJqlMKehapnITzhCvgO4hbgib+YGv4/FPMw1RP0a9hFs+OfOVm0H/iYvryPU7SAp4kvHy9QqVKj6/aTkNLscqmbJ/BdAyE2YzJPfO8nYdBZDIBmsm2sC5jPJTJr+Y+Qh0js9283dJvIoEdmoYOZ+xqZ962+qWIYl96VeWM0Khto4JyF32Pu3a9dewij6KAorGNgjHysGpQA1FoUAT04006Ht3013WcSPa4CHO9r4HFmr55hFPoXbJMss1+i3ctVBJnU9GmrfvrioRwOSeuEZBjvG7ThjXeq3p6FURxAxFqflKEnmRNsyeQLBQMEfVU/Hg+CiZ9oUURDZDn3GJEEXxtIYXJVcRULfm6tJF8jQGl9onJ13YOTr+q05Z0AwFPLpqSHdJJyQOj9tcS+MEJuuvRImUPMdS4QCaKXhzV8I2cTIBwRsgb5UMj5I9zZIJ8GHLUBP8mM7dtXRvPWL1Vkw9l0jjXfaBqpMIIqmrKETq8Rd1jo6l7Qnp0T3p0365jz6Z7p0f3kE39XOWQaD1E3bxB80jYla6uigc15KCAIGDhG7QGIfaVWcPtL3v+jyzkXFskeG8XOzeg13YVic1LszvuofdOFVmVRCkk5DOcqXYlo7krEHcF3r5qcVcYmvVrGby3Ljy0VusarWYUu8cmJXZiCUbatyJey9ZFCdkput4WZLYEffT1in13pcu6ktWp5ulxrtQRhOnnulK38PmKTIeDuoLlAjyh7lTOPyt1C577xsMydw4fJmBn4DiOu9hUM6A10/8LUaunEpqWGOy3BtfR/Lkl3PJrSAmy6cxLmYkXNhRcZJWzP8MRsgWFPJmBZ4+m4ELq3BqoBJNMQ+7rgXkSRflRvS+jNXPehZKa2XIWq5vUrB6nb9PT+XJaT6G2h4jqx/yTLwuPuCS4WOJpB7l1bOKx3xD00WzRvV1+P1uQged59EC2WN7Z4mi28K6MLUrBd7bYzxb0TGxhtc9An8wWpXlPYgs8sF0LH8gWiztbHMsWlnVtbHHIty53trDeKgkOZov2ofZsbAHd6uczxfTqN0hk/B8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-25T14:51:36.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ssLsTXXDrF7Yw415FNR1" version="12.8.8" type="github">
+  <diagram id="ETSGENbbgeC9yL6T0qCD" name="Page-1">
+    <mxGraphModel dx="1323" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tGlBlFlih63D7-SkEb-W-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.179;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=20;endArrow=blockThin;endFill=1;" parent="1" source="tGlBlFlih63D7-SkEb-W-1" target="tGlBlFlih63D7-SkEb-W-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-1" value="特征向量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="80" y="250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;endArrow=blockThin;endFill=1;" parent="1" source="tGlBlFlih63D7-SkEb-W-2" target="tGlBlFlih63D7-SkEb-W-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-2" value="优势特征集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="310" y="250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.799;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.556;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;fontSize=20;endArrow=blockThin;endFill=1;" parent="1" source="tGlBlFlih63D7-SkEb-W-3" target="tGlBlFlih63D7-SkEb-W-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="170.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-3" value="one-hot编码位置信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="540" y="250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-4" value="神经网络" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="100" y="330" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-6" value="序列前向算法&lt;br&gt;+网络权重" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="335" y="330" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-7" value="位置信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="560" y="330" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="310" y="120" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-14" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=20;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="180" as="sourcePoint" />
+            <mxPoint x="370" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-15" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=20;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="179" as="sourcePoint" />
+            <mxPoint x="430" y="119" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-16" value="H&lt;span style=&quot;font-size: 16.6667px&quot;&gt;&lt;sub&gt;c&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="320" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-17" value="" style="endArrow=blockThin;html=1;fontFamily=Times New Roman;fontSize=20;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="140" as="sourcePoint" />
+            <mxPoint x="350" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-19" value="H&lt;span style=&quot;font-size: 13.8889px&quot;&gt;&lt;sub&gt;s&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="380" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-20" value="" style="endArrow=blockThin;html=1;fontFamily=Times New Roman;fontSize=20;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="140" as="sourcePoint" />
+            <mxPoint x="410" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-22" value="H&lt;span style=&quot;font-size: 11.5741px&quot;&gt;&lt;sub&gt;p&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="440" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tGlBlFlih63D7-SkEb-W-23" value="" style="endArrow=blockThin;html=1;fontFamily=Times New Roman;fontSize=20;endFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="140" as="sourcePoint" />
+            <mxPoint x="470" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
