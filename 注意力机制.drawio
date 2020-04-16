@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-16T07:16:59.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="_q44AhCy7cwNCrVW0mFN" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-16T07:19:07.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="-Hdl4gQG4gpHz5qz_FrQ" version="12.9.12" type="github">
   <diagram id="0_bkN9K-rY-Ne2_8XW2i" name="Page-1">
     <mxGraphModel dx="912" dy="1579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -577,16 +577,16 @@
         <mxCell id="fndQNwA-PfIZW3IFsdeX-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="360" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fndQNwA-PfIZW3IFsdeX-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fndQNwA-PfIZW3IFsdeX-41" value="手腕加速度计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="67" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fndQNwA-PfIZW3IFsdeX-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fndQNwA-PfIZW3IFsdeX-42" value="手腕陀螺仪" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="280" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fndQNwA-PfIZW3IFsdeX-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="fndQNwA-PfIZW3IFsdeX-43" value="下肢加速度计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="487" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fndQNwA-PfIZW3IFsdeX-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fndQNwA-PfIZW3IFsdeX-44" value="下肢陀螺仪" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="705" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fndQNwA-PfIZW3IFsdeX-45" value="" style="endArrow=none;dashed=1;html=1;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EH2mo0Jq_GTWh8T8V1y9-78">
