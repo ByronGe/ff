@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-17T08:23:12.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="Q16Y3QYsy5h-1Ye45way" version="12.9.14" type="github">
+<mxfile host="www.draw.io" modified="2020-04-17T08:23:44.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="aYljqZ6sSEzGkdNe-nZG" version="12.9.14" type="github">
   <diagram id="S0DiUPjAgUc06-kpZNpV" name="Page-1">
     <mxGraphModel dx="1293" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="4Ke5hpOPJ7JmjohW-5ds-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=21;" parent="1" source="4Ke5hpOPJ7JmjohW-5ds-1" target="4Ke5hpOPJ7JmjohW-5ds-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Ke5hpOPJ7JmjohW-5ds-1" value="多位置多模态&lt;br style=&quot;font-size: 21px;&quot;&gt;传感器数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="4Ke5hpOPJ7JmjohW-5ds-1" value="多位置多模态&lt;br style=&quot;font-size: 21px;&quot;&gt;传感器数据" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="111" y="160" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Ke5hpOPJ7JmjohW-5ds-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=21;" parent="1" source="4Ke5hpOPJ7JmjohW-5ds-3" target="4Ke5hpOPJ7JmjohW-5ds-5" edge="1">
@@ -67,7 +67,7 @@
         <mxCell id="4Ke5hpOPJ7JmjohW-5ds-18" value="过渡行为识别" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="334" y="614" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4Ke5hpOPJ7JmjohW-5ds-21" value="行为识别结果" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="4Ke5hpOPJ7JmjohW-5ds-21" value="行为识别结果" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="224" y="767" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Ke5hpOPJ7JmjohW-5ds-28" value="过渡态行为&lt;br style=&quot;font-size: 21px;&quot;&gt;识别流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontSize=21;" parent="1" vertex="1">
